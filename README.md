@@ -1,3 +1,1 @@
-# HtmlUnit-init
-Web scraping with HtmlUnit.
-"# WebScraper-Using-HTML-Unit" 
+# A Simple Java based Web Scraper using Htmlunit
